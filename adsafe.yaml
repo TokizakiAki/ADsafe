@@ -1,4 +1,3 @@
-payload:
   #- 'googlevideo.com'
   #- 'withyoutube.com'
   #- 'youtu.be'
@@ -10,6 +9,8 @@ payload:
   #- 'ytimg.com'
   #- 'youtubei.googleapis.com'
   #- 'yt3.ggpht.com'
+payload:
+  
   - '1010pic.com'
   - '16dd-advertise-1252317822.file.myqcloud.com'
   - '16dd-advertise-1252317822.image.myqcloud.com'
